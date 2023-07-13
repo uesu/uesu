@@ -1,6 +1,8 @@
 ### Hi there 🍡
 
-I usually work behind the scenes the type of person, understands the function and codes and tries my best to simplify and explain it
+I usually work behind the scenes the type of person, understands the function, codes and tries my best to simplify and explain it
+
+![](https://github.com/uesu/uesu/blob/main/liyue%20waterfall.gif)
 
 <!--
 **uesu/uesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
