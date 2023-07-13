@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 🍡
+
+I usually work behind the scenes the type of person, understands the function and codes and tries my best to simplify and explain it
 
 <!--
 **uesu/uesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
